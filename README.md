@@ -1,4 +1,4 @@
-# Here is a picture of a pot mayonaise
+# POW project Bram Willems
 
 ![Knoerpot](schematic.PNG)
 
